@@ -46,11 +46,6 @@ def salad_selection():
 
     return selected_ingredients
 
-
-
-
-
-
 def dressing_selection():
     dressingss = ["Ranch", "Caesar", "Italian Dressing", "Honey Mustard", "No dressings"]
 
